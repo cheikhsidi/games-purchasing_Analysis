@@ -1,5 +1,5 @@
 # Project Summart
-Analyzing the data for a fantasy game Heroes of a gaming Company
+Analyzing the data for a fantasy game Heroes of a gaming Company using Pandas and Matplotlib
 
 - generate a report that breaks down the game's purchasing data into meaningful insights using Pandas library and jupyter Notebook.
   - Player Count
